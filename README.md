@@ -1,0 +1,1 @@
+Flask api services are basic APIs which authenticates and generates token(Json Web Tokens) for user valid for a particular time . The aunhenticated user can do his stuff till the token expires after that he has to login again.
